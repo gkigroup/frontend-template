@@ -1,1 +1,1 @@
-# CozyFlow Frontend
+# Frontend - Template
